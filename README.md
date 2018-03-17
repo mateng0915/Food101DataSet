@@ -1,6 +1,10 @@
 # Food101DataSet
 The Rige-i test dataset and using transfer learning to implemented the CNN for food classification
 
+The indroduction of this project
+Based on this model can achieve recognize types of food.
+The food raw dataset comes from kaggle, then I pre-process this dataset for editing data label.
+
 How to use
 1. The dataset no need to download, in the code the train data src and test data src is this git address
 2. download the CNN2.0.ipynb
