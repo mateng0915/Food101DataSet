@@ -1,5 +1,5 @@
 # Food101DataSet
-THis project is for Rige-i coding test 
+This project is for Rige-i coding test 
 
 Download kaggle food dataset and using transfer learning conception to implemented the CNN for food classification
 
