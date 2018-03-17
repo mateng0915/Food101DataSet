@@ -1,5 +1,7 @@
 # Food101DataSet
-The Rige-i test dataset and using transfer learning to implemented the CNN for food classification
+THis project is for Rige-i coding test 
+
+Download kaggle food dataset and using transfer learning conception to implemented the CNN for food classification
 
 The indroduction of this project
   
